@@ -1,4 +1,4 @@
-# Hi, I'm [Mennatullah Ibraheem] 👋
+# Hi, I'm Mennatullah Ibraheem👋
 
 I'm a front-end developer with 4 years of experience working with React. I'm passionate about creating user-friendly and visually appealing websites and applications that provide a great user experience. I love coding and passionate about learing more and growing.
 
@@ -13,12 +13,12 @@ I'm a front-end developer with 4 years of experience working with React. I'm pas
 
 ## Experience
 
-- [Agylz](https://agylz.com/):Product innovation management platform.
+- Agylz (https://agylz.com/):Product innovation management platform.
 
 
 ## Education
 
-- [Bachelor], [Portsiad University]: graduated from computer and control department in 2019.
+- Bachelor, Portsiad University: graduated from computer and control department in 2019.
 
 ## Interests
 
