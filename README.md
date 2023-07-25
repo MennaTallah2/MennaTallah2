@@ -5,7 +5,9 @@ I'm a front-end developer with 4 years of experience working with React. I'm pas
 ## Skills
 
 - React
+- Nextjs
 - JavaScript
+- typescript
 - HTML/CSS
 - Redux
 - Graphql
@@ -14,6 +16,7 @@ I'm a front-end developer with 4 years of experience working with React. I'm pas
 ## Experience
 
 - Agylz (https://agylz.com/):Product innovation management platform.
+- Estatebook [(www.estatebook.com](https://estatebook.com/).
 
 
 ## Education
