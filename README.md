@@ -16,8 +16,26 @@ I'm a seasoned front-end developer with over five years of hands-on experience s
 
 ## Experience
 
+### Front-End Developer  
+[The Address Holding], [Egypt]  
+[2023-current]
+
+- [Estatebook](https://estatebook.com/)
+- Developed and maintained front-end components for various projects using React and Next.
+- Collaborated closely with designers and back-end developers to ensure seamless integration of UI elements.
+- Implemented responsive designs and optimized performance to enhance user experience.
+- Contributed to project planning and brainstorming sessions, offering insights and solutions to technical challenges.
+- Actively participated in code reviews and provided constructive feedback to team members.
+
+### Junior Front-End Developer  
+[Agylz], [Florida]  
+[2020-2023]
+
 - [Agylz](https://agylz.com/)
-- [Estatebook](https://estatebook.com/) .
+- Assisted in the development of user interfaces for web applications, primarily using React.
+- Worked closely with senior developers to learn best practices and coding standards.
+- Participated in bug-fixing and troubleshooting activities to improve application stability.
+- Contributed to the planning and execution of new features, providing input on design and functionality.
 
 
 ## Education
