@@ -16,7 +16,7 @@ I'm a seasoned front-end developer with over five years of hands-on experience s
 
 ## Experience
 
-- [Agylz](https://agylz.com/) Product innovation management platform.
+- [Agylz](https://agylz.com/)
 - [Estatebook](https://estatebook.com/) .
 
 
